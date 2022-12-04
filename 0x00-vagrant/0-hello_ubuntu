@@ -1,0 +1,2 @@
+#!/bin/bash
+uname > name of the operating system that you are using.
